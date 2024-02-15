@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-budget-deploy-test-app/static/css/main.addbde38.css",
+    "main.js": "/react-budget-deploy-test-app/static/js/main.0b82b4dc.js",
+    "static/js/787.1c8d8400.chunk.js": "/react-budget-deploy-test-app/static/js/787.1c8d8400.chunk.js",
+    "index.html": "/react-budget-deploy-test-app/index.html",
+    "main.addbde38.css.map": "/react-budget-deploy-test-app/static/css/main.addbde38.css.map",
+    "main.0b82b4dc.js.map": "/react-budget-deploy-test-app/static/js/main.0b82b4dc.js.map",
+    "787.1c8d8400.chunk.js.map": "/react-budget-deploy-test-app/static/js/787.1c8d8400.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.addbde38.css",
+    "static/js/main.0b82b4dc.js"
+  ]
+}
